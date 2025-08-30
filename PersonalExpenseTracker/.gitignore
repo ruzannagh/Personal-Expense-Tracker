@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+coverage/
+
+# IDE stuff
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
